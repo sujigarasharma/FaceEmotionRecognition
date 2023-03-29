@@ -17,7 +17,8 @@ Software Requirements
 •	Jupyter Notebook
 
 SAMPLE OUTPUT
-![Picture 1](https://user-images.githubusercontent.com/114681230/228611638-afc45471-678d-4589-9b86-ccd2609d02b2.png)
+
+<img width="415" alt="image" src="https://user-images.githubusercontent.com/114681230/228611638-afc45471-678d-4589-9b86-ccd2609d02b2.png">
 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/114681230/228610776-8ed54966-f002-4cce-bd9e-3012c62885e9.png">
 
